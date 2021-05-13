@@ -1,0 +1,12 @@
+@media(max-width: 1140px){
+	.section-video {
+		height: auto;
+    }
+    .left-block{
+    	margin-bottom: 400px;
+    }
+    .video-wraper{
+    	justify-content: center;
+    }
+
+}
